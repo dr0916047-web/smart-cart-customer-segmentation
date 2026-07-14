@@ -9,3 +9,23 @@ The project helps businesses understand customer patterns and create better mark
 - Matplotlib
 - Seaborn
 - Scikit-learn
+## Machine Learning Algorithm
+- K-Means Clustering
+- Agglomerative Clustering
+## Project Workflow
+- Data Collection
+- Data Cleaning
+- Data Analysis
+- Feature Selection
+- Customer Segmentation
+- Visualization
+## Key Features
+- Identifies customer groups based on behavior.
+- Finds customer spending patterns.
+- Provides useful business insights.
+## How to Run
+1. Clone the repository.
+2. Install required libraries.
+3. Run the Jupyter Notebook.
+## Author
+Deepak Kumawat
